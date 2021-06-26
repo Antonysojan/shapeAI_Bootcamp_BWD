@@ -1,0 +1,12 @@
+import react from "react"
+
+funtion Info(){
+return(
+<div className="note">
+   <h1>javascript and react.js</h1>
+   <p>A basic web dev react js bootcamp</p>
+   </div>
+);
+}
+
+export default Info;
